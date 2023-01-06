@@ -1,0 +1,15 @@
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\bin\Debug\net6.0\2.exe
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\bin\Debug\net6.0\2.deps.json
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\bin\Debug\net6.0\2.runtimeconfig.json
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\bin\Debug\net6.0\2.dll
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\bin\Debug\net6.0\2.pdb
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.dll
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\refint\2.dll
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.pdb
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+E:\обучения ПРОГРАММИСТ\С#\1\Lesson\2\obj\Debug\net6.0\ref\2.dll
